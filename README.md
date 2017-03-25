@@ -19,4 +19,4 @@
   Going to JavaScript I have mainly heard bad things about the language although in SoftUni everyone seems to love it for some reason, I find it rather enjoyable especially compared to PHP.
 
 07. JS Calculator - 22.03.2017
-  Now this is something else!  The calculator exercise that we have to do with the 4 languages was a lot simpler it seems than it was with PHP. Although this might have been due to me already being familiar with the project and what we are supposed to do i still found it a lot more enjoyable with JavaScript!
+    Now this is something else!  The calculator exercise that we have to do with the 4 languages was a lot simpler it seems than it was with PHP. Although this might have been due to me already being familiar with the project and what we are supposed to do i still found it a lot more enjoyable with JavaScript!
